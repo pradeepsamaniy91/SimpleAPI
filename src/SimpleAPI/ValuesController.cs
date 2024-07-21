@@ -18,7 +18,7 @@ namespace SimpleAPI
         // GET: api/values/5
         public string Get(int id)
         {
-            return "value";
+            return "Pradeep kumar";
         }
         // POST: api/values
         public void Post([FromBody]string value)
