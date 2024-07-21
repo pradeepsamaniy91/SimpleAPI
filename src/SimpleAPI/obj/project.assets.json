@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sandeep Sir\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
+      "projectUniqueName": "D:\\Sandeep Sir\\SimpleAPI\\src\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
       "projectName": "SimpleAPI",
-      "projectPath": "D:\\Sandeep Sir\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
+      "projectPath": "D:\\Sandeep Sir\\SimpleAPI\\src\\SimpleAPI\\src\\SimpleAPI\\SimpleAPI.csproj",
       "packagesPath": "C:\\Users\\2514tu\\.nuget\\packages\\",
-      "outputPath": "D:\\Sandeep Sir\\SimpleAPI\\src\\SimpleAPI\\obj\\",
+      "outputPath": "D:\\Sandeep Sir\\SimpleAPI\\src\\SimpleAPI\\src\\SimpleAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
